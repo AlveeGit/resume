@@ -27,7 +27,7 @@ document.getElementById('food-btn').addEventListener('click', function () {
 }
 )
 document.getElementById('resume-btn').addEventListener('click', function () {
-    window.location.href = ("https://drive.google.com/file/d/1rtk8kPrq8ngVROT5MVoZ5x1UWobfMHI5/view?usp=sharing");
+    window.location.href = ("https://drive.google.com/drive/folders/1_Uk9c4M-v6yMS_kGwgNfww3jOgis2GSm?usp=sharing");
 }
 )
 document.getElementById('git-btn').addEventListener('click', function () {
