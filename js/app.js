@@ -34,8 +34,8 @@ document.getElementById('git-btn').addEventListener('click', function () {
     window.location.href = ("https://github.com/AlveeGit");
 }
 )
-document.getElementById('facebook-btn').addEventListener('click', function () {
-    window.location.href = ("https://www.facebook.com/MdAlveeKabir/");
+document.getElementById('linkedin-btn').addEventListener('click', function () {
+    window.location.href = ("https://www.linkedin.com/in/alvee-kabir/");
 }
 )
 
